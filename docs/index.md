@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+Welcome to LLVM GPU News, a bi-weekly newsletter on all the GPU things under the LLVM umbrella.

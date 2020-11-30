@@ -16,12 +16,13 @@
 title: LLVM GPU News
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Submit your feedback and suggestions via email (same as on llvm-dev),
+  by opening an <a href="https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/issues/new">Issue on GitHub</a>,
+  or even submitting a <a href="https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/tree/main/docs/_posts">Pull Request</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://llvm-gpu-news.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  llvm-gpu-news
+github_username: "llvm-gpu-news"
+github_repo: "llvm-gpu-news.github.io"
 #twitter_username: twitter_handle
 
 # Build settings

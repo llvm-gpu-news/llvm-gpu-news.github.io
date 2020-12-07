@@ -20,3 +20,5 @@ LLVM community.
 
 We welcome you feedback and suggestions, see the bottom of the page for details on how
 to submit suggestions and contribute.
+
+<sub>Main editor: [Jakub Kuderski](https://github.com/kuhar).</sub>

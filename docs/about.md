@@ -18,7 +18,7 @@ and challenges in LLVM-based GPU compilers. We also hope to shed some light on t
 ongoing issues and development efforts in the GPU world and expose to this the general
 LLVM community.
 
-We welcome you feedback and suggestions, see the bottom of the page for details on how
+We welcome your feedback and suggestions, see the bottom of the page for details on how
 to submit suggestions and contribute.
 
 <sub>Main editor: [Jakub Kuderski](https://github.com/kuhar).</sub>

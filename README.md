@@ -8,4 +8,4 @@ The website is available at: https://llvm-gpu-news.github.io.
 
 We welcome your feedback and suggestions. Let us know if we missed anything interesting, or want us to bring attention to your (sub)project, revisions under review, or proposals.
 
-Submit your feedback and suggestions by opening an [Issue](https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/issues/new) or [Pull Request](https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/tree/main/docs/_posts).
+Submit your feedback and suggestions by opening an [Issue](https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/issues/new) or a [Pull Request](https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/tree/main/docs/_posts).

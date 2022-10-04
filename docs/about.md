@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-LLVM GPU News is a bi-weekly newsletter focused on the GPU side of the LLVM project, including areas like GPU backends, LLVM and MLIR middle-end work for GPU targets, out-of-monorepo GPU compilers (e.g., LLPC, RADV, SYCL, ROCm), related conference talks, etc.
+LLVM GPU News is a newsletter focused on the GPU side of the LLVM project, including areas like GPU backends, LLVM and MLIR middle-end work for GPU targets, out-of-monorepo GPU compilers (e.g., LLPC, SYCL, ROCm), related conference talks, etc.
 
 <div style="text-align:center">
     <img src="/assets/images/gpu-dragon-logo-website.svg" width="512px" style="margin-left:16px;margin-top:8px;margin-bottom:8px"/>

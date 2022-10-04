@@ -18,7 +18,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Submit your feedback and suggestions via email (check my <a href="https://github.com/kuhar">GitHub</a>),
   by opening an <a href="https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/issues/new">Issue</a>,
-  or submitting a <a href="https://github.com/llvm-gpu-news/llvm-gpu-news.github.io/tree/main/docs/_posts">Pull Request</a>.
+  or on the <a href="https://discourse.llvm.org/u/kuhar/summary">LLVM discourse forum</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://llvm-gpu-news.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: "llvm-gpu-news"
